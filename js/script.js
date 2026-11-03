@@ -1,4 +1,4 @@
-const NOTE_URL = "#";
+const NOTE_URL = "https://note.com/rennai_gokui/n/n7876fb9a4fa9";
 
 const noteLinks = document.querySelectorAll(".js-note-link");
 const storySection = document.querySelector("#story");
